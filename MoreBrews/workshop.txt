@@ -1,0 +1,70 @@
+version=1
+id=2801575579
+title=MoreBrews!
+description=[h1]Getting Started with Homebrewing Beer in PZ[/h1]
+description=I have been diligently putting this together to share one of my personal hobbies with the PZ community. I did my best to capture the process of brewing beer from start to finish.
+description=
+description=[h1]WINE ME UP! - 3.01 Edition:[/h1]
+description=A very large edition to the mod basically doubling the foundation of MoreBrews. This includes the ability to create/ferment/age/bottle a variety of different wines. Here is the following list of new alcoholic beverages:
+description=
+description=[h1]Wines & More:[/h1]
+description=[list]
+description=  [*]Pinot Nior
+description=  [*]Merlot
+description=  [*]Cabernet Sauvignon
+description=  [*]Pinot Grigio
+description=  [*]Riesling
+description=  [*]Sauvignon Blanc
+description=  [*]Banana Wine
+description=  [*]Peach Wine
+description=  [*]Pear Wine
+description=  [*]Pineapple Wine
+description=  [*]Rosehip Wine
+description=  [*]Strawberry Wine
+description=  [*]Wild Berry Wine
+description=  [*]Honey Mead
+description=  [*]Hard Cider
+description=[/list]
+description=
+description=[h1]What else happened:[/h1]
+description=This was designed as a branch build so you can choose between only beer or only wine or select to have both. They function together or accommodate being on their own. Tested to function with version 41.73 and also still works with 41.71 to accommodate MP servers.
+description=[list]
+description=  [*] New Vintner trait can be earned or selected on character creation
+description=  [*] 5 New Wine making Magazines to learn how to interact with the content
+description=  [*] Streamlined fermentation process, much more reliable than previous iteration
+description=  [*] Naming convention, icons, and tooltips adjusted to create clearer directions
+description=  [*] Distribution reimagined to ease those loot tables but Wine/Brewing kits got an upgrade on its contents
+description=  [*] 15 different custom bottle textures, 6 wine box textures, and varying barrel textures added
+description=  [*] Heavy lean into foraged goods + make use of those corks you find (plus new bags of them added)
+description=  [*] 1 Gallon batches lead to 5 bottles and Large barrels lead to 20 - aging red and white wine mechanic included
+description=[/list]
+description=
+description=[h1]Is it safe to add / remove?[/h1]
+description=Previous carboys will have disappeared due to item change to fix the fermentation process. Was tested with an old save, in 41.71 and within 41.73. Otherwise no original items were edited, should be able to add or remove this mod at any time. Safe to say you will lose any items you gained from this mod if you remove it. [b][i]NOTE: This has not been thoroughly tested against other mods or in MP[/i][/b]
+description=
+description=[h1]Where do I find supplies[/h1]
+description=Brewing/Wine Kits will be found mostly in Gigamarts but rarely in garages. A few supplies will be found in tool shops (Bottle Capper + Can Sealer). Beer and wine bottles will be in bars and in a minimal amount of fridges. The remaining supplies will need to be crafted or obtained through kits.
+description=
+description=[h1]Additional Information[/h1]
+description=Most likely will be adding in a distilling process for spirits. Then adding in cocktails to work nicely with future updates. Growable plants are not in the near future, I need to have a better grasp of the code surrounding farming as it impacts gameplay and I would hate to break a save/server.
+description=---------------------------------------------------------------------------------------------
+description=
+description=[img]https://steamuserimages-a.akamaihd.net/ugc/1660101375273576639/0C12E325C464F5DC166E5FF2AB70A43581BED64F/[/img]
+description=
+description=I appreciate your interest in my mod, please don't forget to rate it. If you feel especially inclined, donating a [url=https://ko-fi.com/ryanhayes]coffee[/url] goes a long way for me.
+description=
+description=[url=https://ko-fi.com/ryanhayes][img]https://i.imgur.com/2uTskWl.png[/img][/url]
+description=
+description=[b]Other workshops by me:[/b]
+description=
+description=[table]
+description=[tr]
+description=[td][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2923439994][img]https://steamuserimages-a.akamaihd.net/ugc/1996818260943233101/D814FAEA7BFAA6149C76E04B21A984F0B2A1F42B/?imw=200&imh=200&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false[/img][/url][/td]
+description=[td][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2795036124][img]https://steamuserimages-a.akamaihd.net/ugc/1816648364485570105/A6154A0815FAE7D3443BB2EE5429448B6C0A7FAA/?imw=200&imh=200&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true[/img][/url][/td]
+description=[td][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2884033891][img]https://steamuserimages-a.akamaihd.net/ugc/1859450874949341016/318A3B805ED8A0AC6BC9008D3BCDBFA61862872B/?imw=200&imh=200&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true[/img][/url][/td]
+description=[/tr][/table]
+description=
+description=[quote=author] Do not copy, modify, redistribute, or repackage this mod without explicit permission from the creator. This includes on or off of steam, within another mod or modpack, or a different modified version. This item can be published on Steam only through an account with the name Mackus103.
+description=© 2022-2023 Mackus103  [/quote]
+tags=Build 41;Food;Items;Misc
+visibility=public
